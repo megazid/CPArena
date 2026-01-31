@@ -1,5 +1,10 @@
 /*
     level 1 - week 1
+    frequency array
+    prefix sum
+
+    partial sum
+
     struct
     pair
     vector
@@ -25,6 +30,18 @@ void init(){
     cin.tie(0);
     cin.sync_with_stdio(0);
 }
+
+
+/* Frequency Array  Usages
+-- counting 
+-- quires and finds 
+*/
+void freq(){
+    int n;
+    cin>>n;
+    vector<int>
+}
+
 
 // struct person{
 //     string name;
